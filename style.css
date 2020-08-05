@@ -1,0 +1,32 @@
+
+fieldset{
+	border-radius: 15px;
+	border-color: #02F51B;
+	
+}
+
+
+ p{ 
+ 	color: black;
+ 	text-align: center;
+ 	font-size: 20px;
+ 	font-weight: bold;
+
+  } 
+
+
+ .container{
+
+  position: center; 
+  background-color: #0CE84A;
+  margin: 84px 190px ; 
+  padding: 25px 44px; 
+  border-radius: 20px; 
+  font-size: 25px;
+  font-family: cursive;
+}
+#result{
+	margin-left: 700px;
+}
+
+
